@@ -1,0 +1,6 @@
+.env
+{profile_path}/
+__pycache__
+chromedriver.exe
+.venv/
+.git
